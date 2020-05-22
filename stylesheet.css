@@ -27,6 +27,11 @@ body {
   visibility: hidden;
 }
 
+
+footer a {
+  color:#fff !important;
+  text-decoration:none;
+}
 /* Header / Navigation
     *******************************************************************************************************/
 
