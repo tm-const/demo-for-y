@@ -15,7 +15,10 @@ html {
 }
 
 body {
-  background: #ffffff;
+  background: url('pictures/page-bg.jpg') !important;
+  background-position:center !important;
+  background-size:cover !important;
+  background-repeat:no-repeat !important;
   color: #000000;
   font-family: Helvetica, Arial, serif;
   font-size: 14px;
@@ -82,6 +85,7 @@ body {
 
 .page_link a {
   color: #000000;
+  font-weight:bold;
 }
 .page_link a:hover {
   color: #000000;
